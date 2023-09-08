@@ -1,5 +1,6 @@
 ### Hi there 👋
-I`m **Andrey**
+I`m ***Andrey***
+I`m a student in SPBPY IEiT university
 
 <!--
 **Stan9iiq/Stan9iiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
