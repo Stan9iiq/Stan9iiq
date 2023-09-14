@@ -2,7 +2,7 @@
 
 I`m ***Andrey***
 
-I`m a student SPBPU IEaT university 📚
+I`m a student SPbPU IEaT university 📚
 
 <!--
 **Stan9iiq/Stan9iiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
