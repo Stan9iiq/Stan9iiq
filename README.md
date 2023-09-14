@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I`m ***Andrey***
+### Hi there, I`m ***Andrey***👋
 
 I`m a student SPbPU IEaT university 📚
 
